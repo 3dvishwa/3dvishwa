@@ -8,7 +8,7 @@ import GlassCard from "../../components/ui/GlassCard";
 
 import Stats from "./Stats";
 
-import { companyHighlights } from "@/constants/company";
+import { companyHighlights } from "../../constants/company";
 
 
 
