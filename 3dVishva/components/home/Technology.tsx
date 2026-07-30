@@ -2,10 +2,10 @@
 
 import { motion } from "framer-motion";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
 
-import { technologies } from "@/constants/technologies";
+import { technologies } from "../../constants/technologies";
 
 
 export default function Technology() {

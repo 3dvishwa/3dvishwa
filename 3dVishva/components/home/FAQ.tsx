@@ -4,10 +4,10 @@ import { useState } from "react";
 import { Plus, Minus } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
 
-import { faqs } from "@/constants/faq";
+import { faqs } from "../../constants/faq";
 
 
 

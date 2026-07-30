@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 
-import Container from "@/components/layout/Container";
+import Container from "../../components/layout/Container";
 
 import FloatingCards from "./FloatingCards";
 import HeroStats from "./HeroStats";

@@ -3,11 +3,11 @@
 import { motion } from "framer-motion";
 import { Quote } from "lucide-react";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
-import GlassCard from "@/components/ui/GlassCard";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
+import GlassCard from "../../components/ui/GlassCard";
 
-import { testimonials } from "@/constants/testimonials";
+import { testimonials } from "../../constants/testimonials";
 
 
 export default function Testimonials() {

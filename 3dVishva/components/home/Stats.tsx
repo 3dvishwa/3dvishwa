@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-import { companyStats } from "@/constants/company";
+import { companyStats } from "../../constants/company";
 
 
 export default function Stats() {

@@ -3,11 +3,11 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
-import GlassCard from "@/components/ui/GlassCard";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
+import GlassCard from "../../components/ui/GlassCard";
 
-import { pricingPlans } from "@/constants/pricing";
+import { pricingPlans } from "../../constants/pricing";
 
 
 export default function Pricing() {

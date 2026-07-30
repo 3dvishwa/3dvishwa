@@ -2,9 +2,9 @@
 
 import { motion } from "framer-motion";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
-import GlassCard from "@/components/ui/GlassCard";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
+import GlassCard from "../../components/ui/GlassCard";
 
 import Stats from "./Stats";
 

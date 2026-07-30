@@ -1,11 +1,11 @@
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
-import GlassCard from "@/components/ui/GlassCard";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
+import GlassCard from "../../components/ui/GlassCard";
 
-import { services } from "@/constants/services";
+import { services } from "../../constants/services";
 
-import StaggerContainer from "@/components/animations/StaggerContainer";
-import MotionCard from "@/components/animations/MotionCard";
+import StaggerContainer from "../../components/animations/StaggerContainer";
+import MotionCard from "../../components/animations/MotionCard";
 
 
 export default function Services() {

@@ -10,11 +10,11 @@ import {
     Layers,
 } from "lucide-react";
 
-import Container from "@/components/layout/Container";
-import Section from "@/components/layout/Section";
-import GlassCard from "@/components/ui/GlassCard";
+import Container from "../../components/layout/Container";
+import Section from "../../components/layout/Section";
+import GlassCard from "../../components/ui/GlassCard";
 
-import { projects } from "@/constants/portfolio";
+import { projects } from "../../constants/portfolio";
 
 
 const icons = [
