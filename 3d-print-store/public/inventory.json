@@ -1,0 +1,361 @@
+{
+  "products": [],
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2025-06-26T10:00:00Z",
+      "type": "Purchase",
+      "productId": "3d Printer",
+      "productName": "Creality Ender 3v3KE 3d Printer",
+      "productType": "3d Printer",
+      "quantity": 1,
+      "price": 29999
+    },
+    {
+      "id": 2,
+      "date": "2025-06-26T17:02:10.901Z",
+      "type": "Purchase",
+      "productId": null,
+      "productName": "WOL3d PLA Natural White",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 799
+    },
+    {
+      "id": 3,
+      "date": "2025-06-26T17:03:47.257Z",
+      "type": "Purchase",
+      "productId": null,
+      "productName": "WOL3d PLA Midnight Black",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 805
+    },
+    {
+      "id": 4,
+      "date": "2025-07-08T17:04:48.535Z",
+      "type": "Purchase",
+      "productId": null,
+      "productName": "WOL3d PLA Midnight Black",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 750
+    },
+    {
+      "id": 5,
+      "date": "2025-07-14T17:06:09.566Z",
+      "type": "Purchase",
+      "productId": null,
+      "productName": "XSOURCE 3d PLA Printing Filament Blue",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 598
+    },
+    {
+      "id": 6,
+      "date": "2025-07-15T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "235mmx235mm Creality Heatbed Sticker",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 360
+    },
+    {
+      "id": 7,
+      "date": "2025-08-20T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "235mmx235mm Creality Heatbed Sticker",
+      "productType": "3d Printer accessory",
+      "quantity": 3,
+      "price": 349
+    },
+    {
+      "id": 8,
+      "date": "2025-08-22T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "235mmx235mm Creality Heatbed Sticker\t",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 349
+    },
+    {
+      "id": 9,
+      "date": "2025-08-25T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "3d Touch sensor for Ender 5 Plus",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 2480
+    },
+    {
+      "id": 10,
+      "date": "2025-10-05T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "WOL3d PLA Natural White",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 739
+    },
+    {
+      "id": 11,
+      "date": "2025-10-05T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "WOL3d PLA Daizy White",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 725
+    },
+    {
+      "id": 12,
+      "date": "2025-10-09T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Bowden tubing kit for Creality Ender 5 Plus",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 563
+    },
+    {
+      "id": 13,
+      "date": "2025-10-21T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Filament runout sensor for Ender 3",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 399
+    },
+    {
+      "id": 14,
+      "date": "2025-10-27T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "3d Touch Auto levelling sensor for Ender 3",
+      "productType": "3d Printer accessory",
+      "quantity": 1,
+      "price": 1299
+    },
+    {
+      "id": 15,
+      "date": "2025-10-11T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Type B cable for Ender 5 Plus",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 129
+    },
+    {
+      "id": 16,
+      "date": "2025-10-09T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "15 Watt Soldering station",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 341
+    },
+    {
+      "id": 17,
+      "date": "2025-10-12T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "True Flair Transparent Sticker - 25 Sheets",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 405
+    },
+    {
+      "id": 18,
+      "date": "2025-09-10T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Fedus  10 pair DC cable Male-Female connectors",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 239
+    },
+    {
+      "id": 19,
+      "date": "2025-09-09T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Themisto Soldering iron kit",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 278
+    },
+    {
+      "id": 20,
+      "date": "2025-08-12T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Digital vernier caliper",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 379
+    },
+    {
+      "id": 21,
+      "date": "2025-07-31T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Themisto Digital Hygrometer/Thermometer",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 199
+    },
+    {
+      "id": 22,
+      "date": "2025-08-02T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Robomalls PWM motor speed controller",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 178
+    },
+    {
+      "id": 23,
+      "date": "2025-07-30T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "DC 3-12 V 10 RPM gear motor 5 pcs",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 304
+    },
+    {
+      "id": 24,
+      "date": "2025-07-26T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Battery Charging Controller",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 399
+    },
+    {
+      "id": 25,
+      "date": "2025-11-06T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Stackfine 12 Volt -1 A adapter",
+      "productType": "Electronics accessory",
+      "quantity": 10,
+      "price": 95
+    },
+    {
+      "id": 26,
+      "date": "2025-07-20T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "12 V RGB strip controller with remote",
+      "productType": "Electronics accessory",
+      "quantity": 5,
+      "price": 150
+    },
+    {
+      "id": 27,
+      "date": "2025-07-15T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "16x12 polybag  shipping bags - >50 pcs",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 303
+    },
+    {
+      "id": 28,
+      "date": "2025-07-16T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "3 ply Corrugated box for shipping - 8x4x8 inches - 50 boxes",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 514
+    },
+    {
+      "id": 29,
+      "date": "2025-07-14T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Oddy 180 GSM Glossy Photo paper - 20 sheet",
+      "productType": "Stationary",
+      "quantity": 2,
+      "price": 129
+    },
+    {
+      "id": 30,
+      "date": "2025-07-09T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "12 V RGB strip controller with remote",
+      "productType": "Electronics accessory",
+      "quantity": 3,
+      "price": 150
+    },
+    {
+      "id": 31,
+      "date": "2025-07-08T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "True Flair Transparent Sticker - 25 Sheets",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 454
+    },
+    {
+      "id": 32,
+      "date": "2025-07-04T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Acrylic sheet 3mm 6\" x 6\" pack of 4",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 274
+    },
+    {
+      "id": 33,
+      "date": "2025-06-29T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "10 pcs photo stand",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 304
+    },
+    {
+      "id": 34,
+      "date": "2025-10-09T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Creality Hi Combo 3D Printer + Free 7 Filaments Spools",
+      "productType": "3d Printer",
+      "quantity": 1,
+      "price": 43999
+    },
+    {
+      "id": 35,
+      "date": "2025-11-25T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Touch switches - 10 pcs",
+      "productType": "Electronics accessory",
+      "quantity": 1,
+      "price": 161
+    },
+    {
+      "id": 36,
+      "date": "2025-12-01T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "A4 size Acrylic - Set of 2",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 673
+    },
+    {
+      "id": 37,
+      "date": "2025-12-10T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Keychain rings golden - 48 pcs",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 120
+    },
+    {
+      "id": 38,
+      "date": "2025-12-11T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "Keychain rings silver - 120 pcs",
+      "productType": "Stationary",
+      "quantity": 1,
+      "price": 220
+    },
+    {
+      "id": 39,
+      "date": "2025-12-14T00:00:00.000Z",
+      "type": "Purchase",
+      "productName": "3DMaster Silk Gold Filament 1Kg",
+      "productType": "3d Printing Filament",
+      "quantity": 1,
+      "price": 1200
+    }
+  ]
+}

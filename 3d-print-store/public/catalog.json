@@ -1,0 +1,1531 @@
+{
+  "products": [
+    {
+      "productId": "litho-square",
+      "name": "Square Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Turn your favourite photo into a square 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Square",
+          "Theme": "Personal, Romantic",
+          "Occasion": "Anniversary, Birthday, Valentine’s Day, Wedding",
+          "Pattern": "Custom Photo 3d Printed",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "Diameter: 10 cm",
+          "Item Weight": "125 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Upload 1 image"
+        }
+      },
+      "images": [
+        "/images/1763394321009-1758269938602-IMG_1472.webp",
+        "/images/1763394321015-1758269938581-IMG_1471.webp",
+        "/images/1763394321023-1758269938612-IMG_1473.webp",
+        "/images/1763394321028-1758269938621-IMG_1474.webp",
+        "/images/1763394321033-1758269938631-IMG_1499.webp",
+        "/images/1763394321037-1758269938637-IMG_1470.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Square Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Square Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 74900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Square Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Square Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 129900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "heart-litho",
+      "name": "Heart Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Turn your favourite photo into a heart 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Heart",
+          "Theme": "Personal, Romantic",
+          "Occasion": "Anniversary, Birthday, Valentine’s Day, Wedding",
+          "Pattern": "Custom Photo 3d Printed",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "Diameter: 10 cm",
+          "Item Weight": "125 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Upload 1 image"
+        }
+      },
+      "images": [
+        "/images/1763394380578-1759235752921-IMG_1493.webp",
+        "/images/1763394380583-1759235753005-IMG_1494.webp",
+        "/images/1763394380592-1759235753030-IMG_1495.webp",
+        "/images/1763394380596-1759235753057-IMG_1496.webp",
+        "/images/1763394380599-1759235753090-IMG_1497.webp",
+        "/images/1763394380602-1759235753126-IMG_1501.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Heart Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Heart",
+          "backlit": "warm",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Heart Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Heart",
+          "backlit": "warm",
+          "pricePaise": 74900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Heart Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Heart",
+          "backlit": "warm",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Heart Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Heart",
+          "backlit": "warm",
+          "pricePaise": 129900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "litho-rectangle",
+      "name": "Rectangle Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Turn your favourite photo into a rectangle 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Square",
+          "Theme": "Personal, Romantic",
+          "Occasion": "Anniversary, Birthday, Valentine’s Day, Wedding",
+          "Pattern": "Custom Photo 3d Printed",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "Diameter: 10 cm",
+          "Item Weight": "125 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Upload 1 image"
+        }
+      },
+      "images": [
+        "/images/1763394464598-1759247065322-IMG_1485.webp",
+        "/images/1763394464602-1759247065352-IMG_1486.webp",
+        "/images/1763394464604-1759247065262-IMG_1484.webp",
+        "/images/1763394464609-1759247065154-IMG_1482.webp",
+        "/images/1763394464612-1759247065178-IMG_1483.webp",
+        "/images/1763394464616-1759247065131-IMG_1481.webp",
+        "/images/1763394464618-1759247065376-IMG_1500.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Rectangle Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Rectangle",
+          "backlit": "warm",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Rectangle Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 74900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Rectangle Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Rectangle Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 129900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "round-litho",
+      "name": "Round Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Turn your favourite photo into a round 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Round",
+          "Theme": "Personal, Romantic",
+          "Occasion": "Anniversary, Birthday, Valentine’s Day, Wedding",
+          "Pattern": "Custom Photo 3d Printed",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "Diameter: 10-20 cm",
+          "Item Weight": "325 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Upload 1 image"
+        }
+      },
+      "images": [
+        "/images/1763394501843-1758647854526-IMG_1488.webp",
+        "/images/1763394501851-1758647854494-IMG_1487.webp",
+        "/images/1763394501855-1758647854535-IMG_1489.webp",
+        "/images/1763394501858-1758647854551-IMG_1490.webp",
+        "/images/1763394501862-1758647854559-IMG_1491.webp",
+        "/images/1763394501865-1759250576216-IMG_1502.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Round Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Round",
+          "backlit": "warm",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Round Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 74900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Round Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Round Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Square",
+          "backlit": "warm",
+          "pricePaise": 129900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "Ganpati-Bappa",
+      "name": "Ganpati Bappa Color Lithophane",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Ganpati Bappa 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Color 16K",
+          "Item Shape": "Rectangle",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "20cm x 15cm x 20cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Ganesha"
+        }
+      },
+      "images": [
+        "/images/1759251240780-WhatsApp-Image-2025-09-18-at-21.07.31-(1).jpeg",
+        "/images/1759251240784-WhatsApp-Image-2025-09-18-at-21.07.31-(2).jpeg"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Ganesha",
+          "size": "20cm x 15cm x 20cm",
+          "shape": "Rectangle",
+          "backlit": "rgb",
+          "pricePaise": 119900,
+          "dimensions": {
+            "length": 2,
+            "width": 15,
+            "height": 20,
+            "diameter": 0
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "swami-aura-lamp",
+      "name": "Swami Samarth Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Swami Samarth aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Swami Samarth aura lamp"
+        }
+      },
+      "images": [
+        "/images/1763394716487-1759647317915-IMG_1536-2.webp",
+        "/images/1763394716491-1759647318128-IMG_1537-2.webp",
+        "/images/1763394716495-1759647318186-IMG_1538-2.webp",
+        "/images/1763394716499-1759647318221-IMG_1540.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Ganesha",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "buddha-aura-lamp",
+      "name": "Gautam Buddha Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Gautam Buddha aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Gautam Buddha aura lamp"
+        }
+      },
+      "images": [
+        "/images/1759647543465-IMG_1535-2.JPG",
+        "/images/1759647543503-IMG_1534-2.JPG",
+        "/images/1759647543542-IMG_1533-2.JPG",
+        "/images/1759647543581-IMG_1532-2.JPG",
+        "/images/1759647543673-IMG_1531-2.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Gautam Buddha ",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "MaharajAuraLamp",
+      "name": "Shivaji Maharaj Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Shivaji Maharaj aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Shivaji Maharaj aura lamp"
+        }
+      },
+      "images": [
+        "/images/1762185695776-IMG_1523_2.JPG",
+        "/images/1762185695803-IMG_1524_2.JPG",
+        "/images/1762185695826-IMG_1524.JPG",
+        "/images/1762185695846-IMG_1525_2.JPG",
+        "/images/1762185695866-IMG_1525.JPG",
+        "/images/1762185695930-IMG_1526_2.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Shivaji Maharaj ",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "VitthalRukminiAuraLamp",
+      "name": "Vitthal Rukmini Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Vitthal Rukmini aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Vitthal Rukmini aura lamp"
+        }
+      },
+      "images": [
+        "/images/1762185972605-IMG_1527.JPG",
+        "/images/1762185972624-IMG_1528_2.JPG",
+        "/images/1762185972639-IMG_1528.JPG",
+        "/images/1762185972653-IMG_1529_2.JPG",
+        "/images/1762185972701-IMG_1529.JPG",
+        "/images/1762185972718-IMG_1530_2.JPG",
+        "/images/1762185972734-IMG_1530.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Vitthal Rukmini",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "MahadevAuraLamp",
+      "name": "Mahadev Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Mahadev aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Mahadev aura lamp"
+        }
+      },
+      "images": [
+        "/images/1762186055744-IMG_1546_2.JPG",
+        "/images/1762186055757-IMG_1547_2.JPG",
+        "/images/1762186055775-IMG_1547.JPG",
+        "/images/1762186055838-IMG_1548_2.JPG",
+        "/images/1762186055873-IMG_1548.JPG",
+        "/images/1762186055898-IMG_1549_2.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Mahadev Maharaj ",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "KrishnaAuraLamp",
+      "name": "Krishna Aura Lamp",
+      "category": "Aura Lamp",
+      "description": {
+        "about": "Personalised Decor: Krishna aura lamp with a glowing backlight. A perfect devotional gifting option for your loved ones. \nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm white",
+          "Item Shape": "Round",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Aura Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "26cm x 20cm x 8cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Aura lamp with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Mahadev aura lamp"
+        }
+      },
+      "images": [
+        "/images/1762482940784-IMG_1545_2.JPG",
+        "/images/1762482940811-IMG_1541_2.JPG",
+        "/images/1762482940828-IMG_1541.JPG",
+        "/images/1762482940847-IMG_1542_2.JPG",
+        "/images/1762482940870-IMG_1542.JPG",
+        "/images/1762482940896-IMG_1543_2.JPG",
+        "/images/1762482940915-IMG_1543.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Krishna Aura Lamp",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 20,
+            "width": 8,
+            "height": 26,
+            "diameter": 20
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "MoonLamp",
+      "name": "Moon Lamp",
+      "category": "Moon Lamp",
+      "description": {
+        "about": "Personalised Decor: 3D Moon Lamp 7 Colour changing, 15 cm, Changeable Sensor for Bedroom, Touch Lamp, Moonlight Lamp with Stand & USB for Bedside, Valentine Gifts, Festival Gifts, Corporate Gifts, Wedding Gift\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Multicolor",
+          "Item Shape": "Round",
+          "Theme": "Valentine Gifts, Festival Gifts, Corporate Gifts, Wedding Gift",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Moon Lamp",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Moon Lamp, 1 x USB cable type C"
+        },
+        "measurements": {
+          "Item Dimensions": "15cm x 15cm x 15cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Moon Lamp"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "No"
+        }
+      },
+      "images": [
+        "/images/1762603199034-mind-glowing-moon-lamp-3d-moon-night.jpg",
+        "/images/1762603199035-71F4ab7Sx8L._AC_SL1500_.jpg",
+        "/images/1762603199036-moon-lamp-16-colors-led-night.jpg",
+        "/images/1762603199041-moonLamp.jpg"
+      ],
+      "variants": [
+        {
+          "variantId": "Moon Lamp",
+          "size": "26cm x 20cm x 8cm",
+          "shape": "Round",
+          "backlit": "rgb",
+          "pricePaise": 44900,
+          "dimensions": {
+            "length": 15,
+            "width": 15,
+            "height": 15,
+            "diameter": 15
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "SwamiSamarth",
+      "name": "Swami Samarth Lithophane",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Swami Samarth 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Warm White",
+          "Item Shape": "Rectangle",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "20cm x 15cm x 20cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Swami Samarth Lithophane with LED backlight and Stand"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Swami Samarth Frame"
+        }
+      },
+      "images": [
+        "/images/1762603741443-IMG_1520.JPG",
+        "/images/1762603741469-IMG_1519.JPG",
+        "/images/1762603741492-IMG_1521.JPG",
+        "/images/1762603741506-IMG_1522.JPG",
+        "/images/1762603741526-12_1_.jpg"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Swami Samarth",
+          "size": "20cm x 15cm x 20cm",
+          "shape": "Rectangle",
+          "backlit": "rgb",
+          "pricePaise": 119900,
+          "dimensions": {
+            "length": 2,
+            "width": 15,
+            "height": 20,
+            "diameter": 0
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "Ganpati-Bappa-color",
+      "name": "Ganpati Bappa Color Lithophane",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Ganpati Bappa 3D lithophane lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Color 16K",
+          "Item Shape": "Rectangle",
+          "Theme": "Devotional",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "20cm x 15cm x 20cm",
+          "Item Weight": "350",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Custom Ganesha"
+        }
+      },
+      "images": [
+        "/images/1762603870634-IMG_1511.JPG",
+        "/images/1762603870650-IMG_1512.JPG",
+        "/images/1762603870666-IMG_1513.JPG",
+        "/images/1762603870681-IMG_1514.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Custom Ganesha",
+          "size": "20cm x 15cm x 20cm",
+          "shape": "Rectangle",
+          "backlit": "rgb",
+          "pricePaise": 99900,
+          "dimensions": {
+            "length": 2,
+            "width": 15,
+            "height": 20,
+            "diameter": 0
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "AdiYogi",
+      "name": "Adi Yogi Statue",
+      "category": "Miniatures",
+      "description": {
+        "about": "Personalised Decor: Elevate your prayer space with the Lord Adiyogi statue. Made for both decorative and devotional purposes, this premium gift features intricate details and symbolic meaning. Bring positivity to your surroundings with the divine presence of Lord Shiva.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Multicolor",
+          "Item Shape": "Round",
+          "Theme": "Devotional Gift, Festival Gifts, Corporate Gifts, Wedding Gift",
+          "Occasion": "Gifting",
+          "Pattern": "Tabletop",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Statue",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Adi Yogi Statue"
+        },
+        "measurements": {
+          "Item Dimensions": "12cm x 15cm x 8cm",
+          "Item Weight": "300",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Devotional Gifts",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Miniature"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "No"
+        }
+      },
+      "images": [
+        "/images/1763394183085-1762604379840-IMG_1550_2.webp",
+        "/images/1763394183093-1762604379860-IMG_1550.webp",
+        "/images/1763394183100-1762604379872-IMG_1551_2.webp",
+        "/images/1763394183104-1762604379886-IMG_1552_2.webp",
+        "/images/1763394183108-1762604379942-IMG_1553_2.webp"
+      ],
+      "variants": [
+        {
+          "variantId": "Adi Yogi Statue",
+          "size": "12cm x 15cm x 8cm",
+          "shape": "Statue",
+          "backlit": "",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 15,
+            "width": 8,
+            "height": 12,
+            "diameter": 15
+          },
+          "weightGrams": 350,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "NameKeychain",
+      "name": "Personalized Name Keychain",
+      "category": "Keychain",
+      "description": {
+        "about": "Personalised Name Keychains – Carry Your Identity in Style\nAdd a touch of personality to your everyday essentials with our custom-made name keychains. Crafted with precision and care, each piece features your chosen name or word beautifully designed in elegant lettering. Whether it’s for your car keys, backpack, or as a thoughtful gift, these keychains are the perfect blend of style, sentiment, and practicality.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Multicolor",
+          "Item Shape": "Round",
+          "Theme": "Pesrsonalized, birthdays, weddings, anniversaries, or “just because” moments",
+          "Occasion": "Gifting",
+          "Pattern": "Keychain",
+          "Mounting Type": "Ring",
+          "Frame Type": "-",
+          "Other Features": "Personalized",
+          "Number of Items": "Set",
+          "Whats Included": "Personalized name keychains set"
+        },
+        "measurements": {
+          "Item Dimensions": "6cm x 2cm x 0.2cm",
+          "Item Weight": "10",
+          "Unit Count": "Set"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Bag charms, keyrings, friendship gifts, couple keychains, or matching bestie sets.",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Keychain"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Yes"
+        }
+      },
+      "images": [
+        "/images/1762746345162-IMG_4574.JPG",
+        "/images/1762746345175-IMG_4575.JPG",
+        "/images/1762746345183-IMG_4577.JPG",
+        "/images/1762746345192-IMG_4578.JPG",
+        "/images/1762746345198-IMG_4579.JPG",
+        "/images/1762746345204-IMG_4581.JPG",
+        "/images/1762746345211-IMG_4580.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Personalized Name Keychain-Set of 2",
+          "size": "Set 0f 2",
+          "shape": "Freeform",
+          "backlit": "",
+          "pricePaise": 16900,
+          "dimensions": {
+            "length": 6,
+            "width": 2,
+            "height": 0.2,
+            "diameter": 15
+          },
+          "weightGrams": 10,
+          "images": [
+            "/images/1762746582177-IMG_4579.JPG"
+          ]
+        },
+        {
+          "variantId": "Personalized Name Keychain-Set of 3",
+          "size": "Set 0f 3",
+          "shape": "Freeform",
+          "backlit": "",
+          "pricePaise": 19900,
+          "dimensions": {
+            "length": 6,
+            "width": 2,
+            "height": 0.2,
+            "diameter": 0
+          },
+          "weightGrams": 20,
+          "images": [
+            "/images/1762746582188-IMG_4580.JPG"
+          ]
+        },
+        {
+          "variantId": "Personalized Name Keychain-Set of 4",
+          "size": "Set 0f 4",
+          "shape": "Freeform",
+          "backlit": "",
+          "pricePaise": 23900,
+          "dimensions": {
+            "length": 6,
+            "width": 2,
+            "height": 0.2,
+            "diameter": 0
+          },
+          "weightGrams": 25,
+          "images": [
+            "/images/1762746582198-IMG_4576.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "PersonalizedButterflyKeychain",
+      "name": "Personalized Butterfly Name Keychain ",
+      "category": "Keychain",
+      "description": {
+        "about": "Personalized Butterfly Name Keychain\n\nCarry a touch of charm and individuality wherever you go with our Personalized Butterfly Name Keychain! 🦋\nDelicately crafted to capture the beauty of a butterfly, this keychain adds a whimsical sparkle to your keys, bags, or even your car.\n\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Multicolor",
+          "Item Shape": "Round",
+          "Theme": "Pesrsonalized, Anniversaries, Valentine’s Day, weddings, birthdays, or “just because” moments",
+          "Occasion": "Gifting",
+          "Pattern": "Keychain",
+          "Mounting Type": "Heart",
+          "Frame Type": "-",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "Personalized Butterfly Name Keychain"
+        },
+        "measurements": {
+          "Item Dimensions": "6cm x 6cm x 0.8cm",
+          "Item Weight": "10",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Bag charms, keyrings, friendship gifts, couple keychains, or matching bestie sets.",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Keychain"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Yes"
+        }
+      },
+      "images": [
+        "/images/1762787244558-IMG_4590.jpg",
+        "/images/1762787244567-IMG_4592.JPG",
+        "/images/1762787244577-IMG_4591.JPG",
+        "/images/1762787244581-IMG_4589.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Personalized Butterfly Name Keychain",
+          "size": "6cm x 6cm x 0.8cm",
+          "shape": "Butterfly",
+          "backlit": "",
+          "pricePaise": 9900,
+          "dimensions": {
+            "length": 6,
+            "width": 6,
+            "height": 0.8,
+            "diameter": 15
+          },
+          "weightGrams": 10,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "MaharajLithophane",
+      "name": "Shivaji Maharaj Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Attractive Shivaji Maharaj 3D lithophane lamp with a glowing warm white backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Square",
+          "Theme": "Personal, Religious",
+          "Occasion": "Personalized, Anniversary, Birthday, Wedding",
+          "Pattern": "Custom Photo 3d Printed",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Frame, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "20cm x 15cm x 2cm",
+          "Item Weight": "320 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Shivaji Maharaj Lithophane with LED backlight and Stand"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Yes"
+        }
+      },
+      "images": [
+        "/images/1762761672331-IMG_1515.JPG",
+        "/images/1762761672361-IMG_1517.JPG",
+        "/images/1762761672387-IMG_1518.JPG",
+        "/images/1762761672403-IMG_1516.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Shivaji Maharaj Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Rectangle",
+          "backlit": "warm",
+          "pricePaise": 64900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Shivaji Maharaj  Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Rectangle",
+          "backlit": "warm",
+          "pricePaise": 74900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Shivaji Maharaj  Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Rectangle",
+          "backlit": "warm",
+          "pricePaise": 84900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Shivaji Maharaj  Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Rectangle",
+          "backlit": "warm",
+          "pricePaise": 129900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "PersonalizedHeartCoupleKeychain",
+      "name": "Personalized Heart Name Keychain ",
+      "category": "Keychain",
+      "description": {
+        "about": "Personalized Heart Couple Name Keychain\n\nCelebrate your love in a modern way with our Personalized 3D Printed Heart Couple Keychain — a symbol of togetherness, beautifully crafted with precision 3D printing technology.\n\nEach keychain is designed as two interlocking halves of a heart, representing the unbreakable bond between two people. Personalize each half with your names, initials, or a special date to make it uniquely yours.\n\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Multicolor",
+          "Item Shape": "Round",
+          "Theme": "Pesrsonalized, Anniversaries, Valentine’s Day, weddings, birthdays, or “just because” moments",
+          "Occasion": "Gifting",
+          "Pattern": "Keychain",
+          "Mounting Type": "Heart",
+          "Frame Type": "-",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "Personalized Heart Couple Keychain"
+        },
+        "measurements": {
+          "Item Dimensions": "5cm x 5cm x 0.8cm",
+          "Item Weight": "10",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Bag charms, keyrings, friendship gifts, couple keychains, or matching bestie sets.",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Keychain"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Yes"
+        }
+      },
+      "images": [
+        "/images/1762925286055-IMG_4586.jpg",
+        "/images/1762925286064-IMG_4583.JPG",
+        "/images/1762925286075-IMG_4587.JPG",
+        "/images/1762925286086-IMG_4588.JPG"
+      ],
+      "variants": [
+        {
+          "variantId": "Personalized Heart Couple Keychain",
+          "size": "6cm x 6cm x 0.8cm",
+          "shape": "Butterfly",
+          "backlit": "",
+          "pricePaise": 9900,
+          "dimensions": {
+            "length": 6,
+            "width": 6,
+            "height": 0.8,
+            "diameter": 15
+          },
+          "weightGrams": 10,
+          "images": []
+        }
+      ]
+    },
+    {
+      "productId": "CylinderLithophaneLamp",
+      "name": "Self Revolving Motorized 3d printed Cylinder Lithophane Lamp",
+      "category": "Lithophanes",
+      "description": {
+        "about": "Personalised Decor: Turn your favourite photo into a Self Revolving Motorized 3d printed Cylinder Lithophane Lamp with a glowing backlight.\nManufacturing Technology: 3D printing\nMaterial: PLA, a sustainable alternative to plastic.",
+        "productInfo": {
+          "Style/Colour": "Modern / White",
+          "Item Shape": "Cylinder",
+          "Theme": "Personal, devotional",
+          "Occasion": "Anniversary, Birthday, Valentine’s Day, Wedding",
+          "Pattern": "Custom Photo 3d Printed Cylinder",
+          "Mounting Type": "Tabletop",
+          "Frame Type": "Lithophane",
+          "Other Features": "Personalized",
+          "Number of Items": "1",
+          "Whats Included": "1 x Self revolving cylinder lamp, 1 x stand, 1 x Adapter 12V-2A"
+        },
+        "measurements": {
+          "Item Dimensions": "Diameter: 10-20 cm",
+          "Item Weight": "325 grams",
+          "Unit Count": "1"
+        },
+        "brandInfo": {
+          "Brand Name": "3dVishwa",
+          "Target Audience": "Adults, Couples, Gift Recipients",
+          "Country of Origin": "India",
+          "Manufacturer": "3dVishwa",
+          "Item Type": "Photo Lithophane Stand with LED backlight"
+        },
+        "materials": {
+          "Frame Material": "PLA",
+          "Back Material": "Plastic",
+          "Customisations": "Upload 2 image"
+        }
+      },
+      "images": [
+        "/images/1762946604015-WhatsApp_Image_2025-09-18_at_21.07.33__4_.jpeg",
+        "/images/1762946604016-WhatsApp_Image_2025-09-18_at_21.07.33__5_.jpeg"
+      ],
+      "variants": [
+        {
+          "variantId": "Cylinder Lithophane 10cm",
+          "size": "10cm",
+          "shape": "Cylinder",
+          "backlit": "warm",
+          "pricePaise": 99900,
+          "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 180,
+          "images": []
+        },
+        {
+          "variantId": "Cylinder Lithophane 14cm",
+          "size": "14cm",
+          "shape": "Cylinder",
+          "backlit": "warm",
+          "pricePaise": 119900,
+          "dimensions": {
+            "length": 14,
+            "width": 14,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 200,
+          "images": []
+        },
+        {
+          "variantId": "Cylinder Lithophane 16cm",
+          "size": "16cm",
+          "shape": "Cylinder",
+          "backlit": "warm",
+          "pricePaise": 139900,
+          "dimensions": {
+            "length": 16,
+            "width": 16,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 230,
+          "images": []
+        },
+        {
+          "variantId": "Cylinder Lithophane 20cm",
+          "size": "20cm",
+          "shape": "Cylinder",
+          "backlit": "warm",
+          "pricePaise": 159900,
+          "dimensions": {
+            "length": 20,
+            "width": 20,
+            "height": 0,
+            "diameter": 0
+          },
+          "weightGrams": 250,
+          "images": []
+        }
+      ]
+    }
+  ]
+}

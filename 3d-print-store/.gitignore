@@ -1,0 +1,78 @@
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+.pnpm-store/
+.yarn/
+.npm/
+
+# ==========================================
+# Next.js & Build Outputs
+# ==========================================
+.next/
+out/
+build/
+dist/
+
+# ==========================================
+# Environment Variables & Secrets (CRITICAL)
+# ==========================================
+.env
+.env*.local
+.env.production
+.env.staging
+.env.development
+
+# ==========================================
+# Vercel Integration
+# ==========================================
+.vercel/
+
+# ==========================================
+# Debug & Log Files
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# ==========================================
+# IDEs & System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code & JetBrains Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# Testing & Coverage Reports
+# ==========================================
+coverage/
+.nyc_output/
+.playwright/
+test-results/
+
+# ==========================================
+# TypeScript & Cache
+# ==========================================
+*.tsbuildinfo
+.eslintcache
+.turbo/

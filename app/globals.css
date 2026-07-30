@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .glass-card-tech {
+        background: rgba(15, 23, 42, 0.55);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .glass-card-tech:hover {
+        border-color: rgba(255, 255, 255, 0.18);
+    }
+}
+
+body {
+    background-color: #090D16;
+    color: #F1F5F9;
+}
+
+@keyframes spin3d {
+    0% {
+        transform: rotateY(0deg);
+    }
+
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+
+.animate-spin-3d {
+    animation: spin3d 8s linear infinite;
+    transform-style: preserve-3d;
+}
