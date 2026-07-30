@@ -1,0 +1,445 @@
+@import "tailwindcss";
+
+
+:root {
+
+  --background: #f7f9fc;
+
+  --foreground: #0f172a;
+
+
+  --primary: #2563eb;
+
+  --secondary: #7c3aed;
+
+  --accent: #06b6d4;
+
+
+  --card:
+    rgba(255, 255, 255, 0.65);
+
+
+  --border:
+    rgba(255, 255, 255, 0.45);
+
+
+  --shadow:
+    0 20px 60px rgba(15, 23, 42, 0.08);
+
+
+  --shadow-hover:
+    0 35px 90px rgba(37, 99, 235, 0.18);
+
+
+  --radius:
+    24px;
+
+
+  --gradient-primary:
+    linear-gradient(135deg,
+      #2563eb,
+      #7c3aed,
+      #06b6d4);
+
+}
+
+
+*,
+*::before,
+*::after {
+
+  box-sizing:
+    border-box;
+
+}
+
+
+
+html {
+
+  scroll-behavior:
+    smooth;
+
+  scroll-padding-top:
+    100px;
+
+  color-scheme:
+    light;
+
+}
+
+
+
+body {
+
+  margin:
+    0;
+
+
+  color:
+    var(--foreground);
+
+
+  background:
+
+    radial-gradient(circle at top left,
+      #dbeafe 0%,
+      transparent 30%),
+
+    radial-gradient(circle at top right,
+      #ede9fe 0%,
+      transparent 35%),
+
+    radial-gradient(circle at bottom,
+      #cffafe 0%,
+      transparent 30%),
+
+    var(--background);
+
+
+
+  min-height:
+    100vh;
+
+
+
+  overflow-x:
+    hidden;
+
+
+
+  font-family:
+    var(--font-geist),
+    Arial,
+    Helvetica,
+    sans-serif;
+
+
+
+  -webkit-font-smoothing:
+    antialiased;
+
+
+  -moz-osx-font-smoothing:
+    grayscale;
+
+}
+
+
+
+::selection {
+
+  background:
+    var(--primary);
+
+
+  color:
+    white;
+
+}
+
+
+
+
+/* =========================
+   Premium Glass System
+========================= */
+
+
+.glass {
+
+  background:
+    rgba(255, 255, 255, 0.6);
+
+
+
+  backdrop-filter:
+    blur(24px);
+
+
+
+  -webkit-backdrop-filter:
+    blur(24px);
+
+
+
+  border:
+    1px solid rgba(255, 255, 255, 0.5);
+
+
+
+  box-shadow:
+    var(--shadow);
+
+
+
+  border-radius:
+    var(--radius);
+
+
+
+  transition:
+    transform .3s ease,
+    box-shadow .3s ease,
+    background .3s ease;
+
+}
+
+
+
+.glass:hover {
+
+  box-shadow:
+    var(--shadow-hover);
+
+}
+
+
+
+
+.glass-strong {
+
+  background:
+    rgba(255, 255, 255, 0.75);
+
+
+  backdrop-filter:
+    blur(32px);
+
+
+  -webkit-backdrop-filter:
+    blur(32px);
+
+
+  border:
+    1px solid rgba(255, 255, 255, 0.6);
+
+}
+
+
+
+
+
+/* =========================
+   Gradient Utilities
+========================= */
+
+
+.gradient-text {
+
+  background:
+    var(--gradient-primary);
+
+
+  background-clip:
+    text;
+
+
+  -webkit-background-clip:
+    text;
+
+
+  color:
+    transparent;
+
+
+  -webkit-text-fill-color:
+    transparent;
+
+}
+
+
+
+
+.gradient-bg {
+
+  background:
+    var(--gradient-primary);
+
+}
+
+
+
+
+
+/* =========================
+   Section Helpers
+========================= */
+
+
+.section-padding {
+
+  padding-block:
+    7rem;
+
+}
+
+
+
+section {
+
+  scroll-margin-top:
+    100px;
+
+}
+
+
+
+
+
+/* =========================
+   Form Defaults
+========================= */
+
+
+input,
+textarea,
+button {
+
+  font-family:
+    inherit;
+
+}
+
+
+
+button {
+
+  cursor:
+    pointer;
+
+}
+
+
+
+
+
+/* =========================
+   Links
+========================= */
+
+
+a {
+
+  transition:
+    color .25s ease,
+    opacity .25s ease;
+
+}
+
+
+
+
+
+/* =========================
+   Premium Scrollbar
+========================= */
+
+
+::-webkit-scrollbar {
+
+  width:
+    10px;
+
+}
+
+
+
+::-webkit-scrollbar-track {
+
+  background:
+    #f1f5f9;
+
+}
+
+
+
+::-webkit-scrollbar-thumb {
+
+  background:
+
+    linear-gradient(#2563eb,
+      #7c3aed);
+
+
+  border-radius:
+    999px;
+
+}
+
+
+
+
+/* =========================
+   Mobile Improvements
+========================= */
+
+
+@media (max-width:768px) {
+
+  html {
+
+    scroll-padding-top:
+      80px;
+
+  }
+
+
+  .glass {
+
+    border-radius:
+      20px;
+
+  }
+
+}
+
+
+
+
+
+/* =========================
+   Accessibility
+========================= */
+@keyframes loading {
+
+  0% {
+    transform: translateX(-120%);
+  }
+
+  50% {
+    transform: translateX(120%);
+  }
+
+  100% {
+    transform: translateX(250%);
+  }
+
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+
+  *,
+  *::before,
+  *::after {
+
+    animation-duration:
+      .01ms !important;
+
+
+    animation-iteration-count:
+      1 !important;
+
+
+    scroll-behavior:
+      auto !important;
+
+
+    transition-duration:
+      .01ms !important;
+
+  }
+
+
+}
