@@ -4,7 +4,7 @@ import Link from "next/link";
 import { X } from "lucide-react";
 import { useEffect } from "react";
 
-import { navigation } from "@/constants/navigation";
+import { navigation } from "../../constants/navigation";
 
 
 interface MobileMenuProps {

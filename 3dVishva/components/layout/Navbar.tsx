@@ -8,7 +8,7 @@ import Container from "./Container";
 import Logo from "./Logo";
 import MobileMenu from "./MobileMenu";
 
-import { navigation } from "@/constants/navigation";
+import { navigation } from "../../constants/navigation";
 
 
 export default function Navbar() {
