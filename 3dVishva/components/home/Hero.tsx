@@ -9,7 +9,7 @@ import FloatingCards from "./FloatingCards";
 import HeroStats from "./HeroStats";
 import TechStack from "./TechStack";
 
-import FadeIn from "@/components/animations/FadeIn";
+import FadeIn from "../../components/animations/FadeIn";
 
 
 export default function Hero() {
