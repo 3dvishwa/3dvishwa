@@ -3,7 +3,7 @@
 
 import { useEffect } from "react";
 
-import Container from "@/components/layout/Container";
+import Container from "../components/layout/Container";
 
 
 export default function ErrorPage({

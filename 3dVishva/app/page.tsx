@@ -1,13 +1,13 @@
-import Hero from "@/components/home/Hero";
-import Services from "@/components/home/Services";
-import About from "@/components/home/About";
-import Portfolio from "@/components/home/Portfolio";
-import Process from "@/components/home/Process";
-import Technology from "@/components/home/Technology";
-import Pricing from "@/components/home/Pricing";
-import Testimonials from "@/components/home/Testimonials";
-import FAQ from "@/components/home/FAQ";
-import Contact from "@/components/home/Contact";
+import Hero from "../components/home/Hero";
+import Services from "../components/home/Services";
+import About from "../components/home/About";
+import Portfolio from "../components/home/Portfolio";
+import Process from "../components/home/Process";
+import Technology from "../components/home/Technology";
+import Pricing from "../components/home/Pricing";
+import Testimonials from "../components/home/Testimonials";
+import FAQ from "../components/home/FAQ";
+import Contact from "../components/home/Contact";
 
 
 export default function Home() {
