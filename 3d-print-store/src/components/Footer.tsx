@@ -14,8 +14,7 @@ const CREATIONS = [
 ];
 
 export default function Footer() {
-    const softwareSiteUrl = process.env.NEXT_PUBLIC_SOFTWARE_SITE_URL || "https://techworks.3dvishwa.com";
-
+    const softwareSiteUrl = "https://techworks.3dvishwa.com/";
     return (
         <footer className="w-full bg-[#F7F2EB]/90 border-t border-[#E7DCC8] text-[#65554D] font-sans mt-24 relative z-10">
             <div className="max-w-[1400px] mx-auto px-4 md:px-8 pt-16 pb-12">
@@ -229,7 +228,7 @@ export default function Footer() {
                             3dVishwa Software Solutions
                         </a>
                     </p>
-
+                    https://techworks.3dvishwa.com/
                     <div className="flex items-center gap-2 bg-[#FFFDF9] px-3 py-1.5 rounded-full border border-[#ECE2D3] order-2 md:order-3">
                         <img
                             src="/images/Home/Footer/Make-In-India.webp"
