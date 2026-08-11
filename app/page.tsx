@@ -145,7 +145,6 @@ export default function HubLandingPage() {
                 </div>
             </main>
 
-            ```tsx
             {/* Footer */}
             <footer className="max-w-[1000px] w-full mx-auto text-center z-10 pt-4 border-t border-white/10">
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-5">
@@ -172,7 +171,6 @@ export default function HubLandingPage() {
                     </div>
                 </div>
             </footer>
-            ```
 
         </div>
     );
