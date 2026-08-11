@@ -1,22 +1,55 @@
 import type { MetadataRoute } from "next";
 
+const SITE_URL = "https://techworks.3dvishwa.com";
 
-export default function sitemap()
-    : MetadataRoute.Sitemap {
-
-
-    return [
-
+export default function sitemap(): MetadataRoute.Sitemap {
+    const pages: MetadataRoute.Sitemap = [
         {
-            url:
-                "https://www.3dvishwa.com",
-
-            lastModified:
-                new Date(),
-
+            url: SITE_URL,
+            changeFrequency: "weekly",
+            priority: 1,
         },
-
-
+        {
+            url: `${SITE_URL}/about`,
+            changeFrequency: "monthly",
+            priority: 0.8,
+        },
+        {
+            url: `${SITE_URL}/services`,
+            changeFrequency: "monthly",
+            priority: 0.9,
+        },
+        {
+            url: `${SITE_URL}/portfolio`,
+            changeFrequency: "weekly",
+            priority: 0.9,
+        },
+        {
+            url: `${SITE_URL}/pricing`,
+            changeFrequency: "monthly",
+            priority: 0.8,
+        },
+        {
+            url: `${SITE_URL}/contact`,
+            changeFrequency: "monthly",
+            priority: 0.8,
+        },
+        {
+            url: `${SITE_URL}/privacy-policy`,
+            changeFrequency: "yearly",
+            priority: 0.3,
+        },
+        {
+            url: `${SITE_URL}/data-policy`,
+            changeFrequency: "yearly",
+            priority: 0.3,
+        },
+        {
+            url: `${SITE_URL}/terms`,
+            changeFrequency: "yearly",
+            priority: 0.3,
+        },
     ];
 
+    return pages;
 }

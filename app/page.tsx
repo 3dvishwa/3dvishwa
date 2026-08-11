@@ -145,12 +145,34 @@ export default function HubLandingPage() {
                 </div>
             </main>
 
+            ```tsx
             {/* Footer */}
             <footer className="max-w-[1000px] w-full mx-auto text-center z-10 pt-4 border-t border-white/10">
-                <p className="text-[11px] text-slate-500 font-mono">
-                    &copy; {new Date().getFullYear()} 3DVISHWA ECOSYSTEM. ALL RIGHTS RESERVED.
-                </p>
+                <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-5">
+                    <p className="text-[11px] text-slate-500 font-mono">
+                        &copy; {new Date().getFullYear()} 3DVISHWA ECOSYSTEM. ALL RIGHTS RESERVED.
+                    </p>
+
+                    <div className="hidden sm:block w-px h-3 bg-white/10" />
+
+                    <div className="flex items-center gap-4">
+                        <a
+                            href="/terms"
+                            className="text-[11px] text-slate-500 hover:text-cyan-400 font-mono transition-colors"
+                        >
+                            Terms of Service
+                        </a>
+
+                        <a
+                            href="/privacy"
+                            className="text-[11px] text-slate-500 hover:text-cyan-400 font-mono transition-colors"
+                        >
+                            Privacy Policy
+                        </a>
+                    </div>
+                </div>
             </footer>
+            ```
 
         </div>
     );

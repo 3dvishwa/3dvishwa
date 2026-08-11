@@ -1,25 +1,16 @@
 import type { MetadataRoute } from "next";
 
+const SITE_URL = "https://techworks.3dvishwa.com";
 
-export default function robots()
-    : MetadataRoute.Robots {
-
+export default function robots(): MetadataRoute.Robots {
     return {
-
-        rules: {
-
-            userAgent:
-                "*",
-
-            allow:
-                "/",
-
-        },
-
-
-        sitemap:
-            "https://www.3dvishwa.com/sitemap.xml",
-
+        rules: [
+            {
+                userAgent: "*",
+                allow: "/",
+            },
+        ],
+        sitemap: `${SITE_URL}/sitemap.xml`,
+        host: SITE_URL,
     };
-
 }
