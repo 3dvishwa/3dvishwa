@@ -30,7 +30,7 @@ const sections = [
                         <div>
                             <Label>Legal Operator</Label>
                             <p className="mt-1 text-slate-200">
-                                [FULL LEGAL NAME / PROPRIETOR NAME]
+                                [Deepak Gaikwad]
                             </p>
                         </div>
 
@@ -51,14 +51,14 @@ const sections = [
                         <div>
                             <Label>Email</Label>
                             <p className="mt-1 text-slate-200">
-                                [CONTACT EMAIL]
+                                info.3dvishwa@gmail.com
                             </p>
                         </div>
 
                         <div className="sm:col-span-2">
                             <Label>Address</Label>
                             <p className="mt-1 text-slate-200">
-                                [FULL BUSINESS ADDRESS]
+                                Pimple Gurav, Pune, Maharashtra 411061, India
                             </p>
                         </div>
                     </div>
@@ -631,13 +631,13 @@ export default function TermsPage() {
                                 3D Vishwa
                             </strong>
                             <br />
-                            [PROPRIETOR / LEGAL NAME]
+                            Deepak Gaikwad
                             <br />
-                            [BUSINESS ADDRESS]
+                            Pimple Gurav, Pune
                             <br />
-                            Email: [CONTACT EMAIL]
+                            Email: info.3dvishwa@gmail.com
                             <br />
-                            Phone: [CONTACT PHONE, IF APPLICABLE]
+                            Phone: 7276209570
                         </div>
 
                         <p className="mt-5 text-sm leading-7 text-slate-400">

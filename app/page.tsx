@@ -81,7 +81,7 @@ export default function HubLandingPage() {
                                     3D Printing Studio
                                 </h2>
                                 <p className="text-xs text-slate-400 leading-relaxed mt-2">
-                                    Additive manufacturing, high-precision CAD prototyping, resin sculpture casting, lithophanes, and custom prints.
+                                    Additive manufacturing, high-precision CAD prototyping, lithophanes, and custom prints.
                                 </p>
                             </div>
                         </div>

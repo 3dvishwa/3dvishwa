@@ -43,7 +43,7 @@ const sections = [
                                 Legal Operator
                             </span>
                             <p className="mt-1 text-slate-200">
-                                [FULL LEGAL NAME / PROPRIETOR NAME]
+                                3dVishwa
                             </p>
                         </div>
 
@@ -52,7 +52,7 @@ const sections = [
                                 Email
                             </span>
                             <p className="mt-1 text-slate-200">
-                                [PRIVACY / CONTACT EMAIL]
+                                info.3dvishwa@gmail.com
                             </p>
                         </div>
 
@@ -61,7 +61,7 @@ const sections = [
                                 Business Address
                             </span>
                             <p className="mt-1 text-slate-200">
-                                [FULL BUSINESS ADDRESS]
+                                Pimple Gurav, Pune
                             </p>
                         </div>
                     </div>
@@ -592,13 +592,13 @@ export default function PrivacyPage() {
                                 3D Vishwa
                             </strong>
                             <br />
-                            [PROPRIETOR / LEGAL NAME]
+                            Deepak Gaikwad
                             <br />
-                            [BUSINESS ADDRESS]
+                            Pimple Gurav, Pune
                             <br />
-                            Email: [PRIVACY / GRIEVANCE EMAIL]
+                            Email: info.3dvishwa@gmail.com
                             <br />
-                            Phone: [CONTACT PHONE, IF APPLICABLE]
+                            Phone: 7276209570
                         </div>
 
                         <p className="mt-5 text-sm leading-7 text-slate-400">
